@@ -35,6 +35,7 @@ When I'm not "coding away," you can usually find me:
   <img src="https://github-readme-stats.vercel.app/api?username=StarlightGG&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarlightGG&layout=compact&theme=radical" />
 </p>
+
 ---
 
 ### 📬 Get in Touch
